@@ -1,3 +1,14 @@
+# io.github.jgomezbau.iawrapper
+
+Repositorio de empaquetado Flatpak para **IAWrapper**.
+
+Este proyecto contiene el manifest y los archivos necesarios para construir y distribuir **IAWrapper** como paquete **Flatpak**, incluyendo su futura publicación en **Flathub**.
+
+> El código fuente principal de la aplicación está en:  
+> https://github.com/jgomezbau/IAWrapper
+
+---
+
 ## Disclaimer
 
 IAWrapper is an independent and unofficial desktop wrapper for web-based AI services.
@@ -7,15 +18,6 @@ This project is not affiliated with, endorsed by, sponsored by, or supported by 
 ChatGPT, Claude, Grok, DeepSeek, Qwen, and any related names, logos, or trademarks are the property of their respective owners.
 
 IAWrapper only provides an alternative desktop wrapper to access publicly available web interfaces and does not claim any official relationship with those services.
-
-# io.github.jgomezbau.iawrapper
-
-Repositorio de empaquetado Flatpak para **IAWrapper**.
-
-Este proyecto contiene el manifest y los archivos necesarios para construir y distribuir **IAWrapper** como paquete **Flatpak**, incluyendo su futura publicación en **Flathub**.
-
-> El código fuente principal de la aplicación está en:  
-> https://github.com/jgomezbau/IAWrapper
 
 ---
 

@@ -56,7 +56,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/jgomezbau/IAWrapper.git
-        commit: 147ea2d80b970df24d6203e3aaec005e7fe2dcbf
+        commit: c671801e80b891ce4dcf0c21941eb082d80e9a3a
       - type: archive
         url: https://github.com/electron/electron/releases/download/v41.1.0/electron-v41.1.0-linux-x64.zip
         sha256: 4733cfd12e9812e2f780406eac40fcaf98c5d736f40018b3698041e5c58bfefe
